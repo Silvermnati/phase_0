@@ -15,6 +15,11 @@ body {
 
 .intro img{
   float: right;
+width: auto;
+height: 0.5%;
+background-color: calc(navy);
+
+
 
 
 
