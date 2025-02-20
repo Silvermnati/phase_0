@@ -1,0 +1,21 @@
+.intro h1 {
+    background-color:burlywood;
+    text-align: center;
+   font-size: 50px;
+   padding:0.5px ;
+   margin: 40px;
+} 
+
+body {
+    background-color: beige;
+    font-family:Arial, sans-serif;
+
+
+}
+
+.intro img{
+  float: right;
+
+
+
+}
