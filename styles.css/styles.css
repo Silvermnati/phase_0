@@ -1,26 +1,39 @@
 .intro h1 {
-    background-color:burlywood;
-    text-align: center;
-   font-size: 50px;
-   padding:0.5px ;
-   margin: 40px;
-} 
-
-body {
-    background-color: beige;
-    font-family:Arial, sans-serif;
-
-
+  background-color: burlywood;
+  text-align: center;
+  font-size: 50px;
+  padding: 0.5px;
+  margin: 40px;
 }
 
-.intro img{
-  float: right;
-width: auto;
-height: 0.5%;
-background-color: calc(navy);
+.intro button {
+  text-align: center;
+  background-color: whitesmoke;
+  position: center;
+}
+
+body {
+  background-color: beige;
+  font-family: Arial, sans-serif;
+}
+
+.intro img {
+float: right;
+width: 45%;
+}
 
 
+.body h2 {
+  text-align: center;
+  padding: 10px;
+  margin: 1px;
+  font-size:x-large ;
+  background-color:aqua;
+  border: 20px;
+}
 
-
-
+.contact h2 {
+  text-align: center;
+  background-color: aqua;
+  padding: 0.5%;
 }
