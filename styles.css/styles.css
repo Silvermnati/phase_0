@@ -1,11 +1,22 @@
-.intro h1 {
-  background-color: burlywood;
+intro h1 {
+  box-sizing: border-box;
   text-align: center;
   font-size: 50px;
-  padding: 0.5px;
-  margin: 40px;
+  margin: 20px 10px;
+  border: 10px, solid brown;
+  padding: 1px, 20px, black ;
 }
 
+.rounded-image {
+  border-radius:50%;
+  height:50px;
+  width:50px;
+  object-fit: cover;
+}
+
+.intro {
+  border: #222, 50px;
+}
 .intro button {
   text-align: center;
   background-color: whitesmoke;
@@ -17,23 +28,17 @@ body {
   font-family: Arial, sans-serif;
 }
 
-.intro img {
-float: right;
-width: 45%;
-}
-
-
 .body h2 {
   text-align: center;
-  padding: 10px;
-  margin: 1px;
-  font-size:x-large ;
-  background-color:aqua;
-  border: 20px;
+  padding: 10px, black;
+  margin: 10px;
+  font-size: x-large;
+
+  border: 10px;
 }
 
 .contact h2 {
   text-align: center;
-  background-color: aqua;
+
   padding: 0.5%;
 }
