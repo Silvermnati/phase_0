@@ -1,44 +1,40 @@
-intro h1 {
-  box-sizing: border-box;
-  text-align: center;
-  font-size: 50px;
-  margin: 20px 10px;
-  border: 10px, solid brown;
-  padding: 1px, 20px, black ;
-}
-
-.rounded-image {
-  border-radius:50%;
-  height:50px;
-  width:50px;
-  object-fit: cover;
-}
-
 .intro {
-  border: #222, 50px;
+  padding: 40px;
+  border: 10px, 2px solid black;
+  border-radius: 50px;
+  border-width: 2px;
+  border-style: ridge;
+  margin: 20px, 5vw, 1em;
+  margin-bottom: -19px;
+  margin-right: 450px;
+  background-color: aquamarine;
 }
+
+.intro img {
+  border-radius: 50%;
+  border-color: bisque;
+  border-width: 2px;
+  height: 10vw;
+  align-self: center;
+}
+
+.intro h1 {
+  font-family: sans-serif Arial, Helvetica,;
+  text-align: center;
+  font-size: xx-large;
+  font-weight: 5;
+}
+
+.intro p {
+    font-family: sans-serif, Helvetica, Arial;
+    line-height: 1.6;
+}
+
 .intro button {
-  text-align: center;
-  background-color: whitesmoke;
-  position: center;
-}
-
-body {
-  background-color: beige;
-  font-family: Arial, sans-serif;
-}
-
-.body h2 {
-  text-align: center;
-  padding: 10px, black;
-  margin: 10px;
-  font-size: x-large;
-
-  border: 10px;
-}
-
-.contact h2 {
-  text-align: center;
-
-  padding: 0.5%;
+    line-height: 1.6;
+    background-color:blue;
+    padding :0.6px;
+    border: 20px;
+    border-right: 20vw;
+    margin: 20px;
 }
