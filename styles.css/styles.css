@@ -60,21 +60,19 @@
 }
 
 .body p {
-   font-family: sans-serif, Helvetica, Arial;
+  font-family: sans-serif, Helvetica, Arial;
   line-height: 1.6;
 }
 
 .contact {
-    padding: 40px;
+  padding: 40px;
   border: 10px, 2px solid black;
   border-radius: 50px;
   border-width: 2px;
   border-style: ridge;
-  margin:30px, 5vw, 1em;
+  margin: 30px, 5vw, 1em;
   margin-top: 25px;
   margin-bottom: -19px;
   margin-right: 450px;
   background-color: aquamarine;
 }
-
-
